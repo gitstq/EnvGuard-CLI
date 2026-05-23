@@ -1,0 +1,2 @@
+# EnvGuard-CLI Dependencies
+# 零外部依赖 - 纯 Python 标准库实现
